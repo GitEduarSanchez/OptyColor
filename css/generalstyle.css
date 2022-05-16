@@ -1,0 +1,28 @@
+.form-control{
+    background-color: white;
+    -webkit-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+      -moz-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+      box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+  
+  }
+.btn{
+   
+    -webkit-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+      -moz-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+      box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+  
+  }
+
+.form-control:read-only{
+    background-color: #ffffff;
+    
+  }
+legend{
+   text-align: center;
+   border:none;
+}
+.seccion{
+  -webkit-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+      -moz-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+      box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.2);
+}
