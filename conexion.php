@@ -1,9 +1,9 @@
 <?php
 /*Datos de conexion a la base de datos*/
-$db_host = "localhost";
-$db_user = "isasport_isa";
-$db_pass = "1091658551edwar20";
-$db_name = "isasport_optycolor";
+$db_host = "eduarmysql.mysql.database.azure.com";
+$db_user = "eduar";
+$db_pass = "Edwar20*";
+$db_name = "optycolor";
 
 $con = mysqli_connect($db_host, $db_user, $db_pass, $db_name);
 
