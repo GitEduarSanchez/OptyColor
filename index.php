@@ -49,8 +49,6 @@ include("conexion.php");
 				}
 			}
 			?>
-
-		  
 			<br />
 			<div class="table-responsive">
 			<table class="table table-striped table-hover">
