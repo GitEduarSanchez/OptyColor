@@ -1,8 +1,8 @@
 <?php
 /*Datos de conexion a la base de datos*/
-$db_host = "eduarmysql.mysql.database.azure.com";
-$db_user = "eduar";
-$db_pass = "Edwar20*";
+$db_host = "34.193.85.16";
+$db_user = "optycolor";
+$db_pass = "1091658551Edwar20*";
 $db_name = "optycolor";
 
 $con = mysqli_connect($db_host, $db_user, $db_pass, $db_name);
